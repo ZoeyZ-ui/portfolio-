@@ -33,23 +33,19 @@ Proceed to describe how to install / setup one's local environment / get started
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
+This personal website will help recruiters find me much more easily. 
 
-`?????`
-
+Recruiters sometimes use Google to their advantage and conduct online searches for top-notch talent. Having this website allow them to stumble upon me and my personal professional website. So owning the search results with my unique domain name, together with making a great first impression, will help me secure an interview.
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Use a dynamic site (Flask, app.py, & routes). 
+- Be more creative 
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Use the Flask application and have the site deployed from a GitHub pipeline 
+- Include more details in my bio, original articles, and be more creative about the layout 
 
 
 ## Acknowledgements
