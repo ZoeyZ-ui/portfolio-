@@ -1,11 +1,10 @@
-# Project Name
+# Portfolio 
 > In this project I will create a landing page for myself on the Internet. In addition I will configure and install Google Analytics and link the custom 
 domain to my page and add my SSL certificate.  
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Setup](#setup)
 * [Usage](#usage)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -26,12 +25,6 @@ domain to my page and add my SSL certificate.
 - Microsoft Azure - version 2.1 
 
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
 ## Usage
 This personal website will help recruiters find me much more easily. 
 
@@ -49,7 +42,6 @@ To do:
 
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by professor Mike Colbert.
 - This project was based on the knowledge we have learned throughout the whole semester, including using a static site and dynamic site to create a landing page, have the site deployed from a GitHub pipeline, configure a domain and an SSL certificate for the website. 
 
